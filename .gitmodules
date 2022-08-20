@@ -1,0 +1,3 @@
+[submodule "CmlLib.Core"]
+	path = CmlLib.Core
+	url = https://github.com/encodeous/CmlLib.Core.git
